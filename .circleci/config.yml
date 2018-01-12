@@ -22,7 +22,6 @@ jobs:
       TERM: dumb
       ANDROID_TARGET: android-23
       ADB_INSTALL_TIMEOUT: 12
-      ANDROID_HOME: /usr/local/android-sdk-linux
 
     java:
       version: oraclejdk8
