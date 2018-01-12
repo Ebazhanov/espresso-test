@@ -27,9 +27,6 @@ jobs:
     java:
       version: oraclejdk8
 
-    override:
-      - sudo ANDROID_HOME=/usr/local/android-sdk-linux ./gradlew dependencies
-
     steps:
       - checkout
 
