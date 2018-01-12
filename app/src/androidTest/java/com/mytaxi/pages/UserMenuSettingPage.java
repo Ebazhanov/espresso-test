@@ -1,4 +1,4 @@
-package com.mytaxi.base.pages;
+package com.mytaxi.pages;
 
 import android.support.test.espresso.assertion.ViewAssertions;
 

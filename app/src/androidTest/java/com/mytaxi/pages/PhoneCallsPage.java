@@ -1,4 +1,4 @@
-package com.mytaxi.base.pages;
+package com.mytaxi.pages;
 
 public class PhoneCallsPage {
 }

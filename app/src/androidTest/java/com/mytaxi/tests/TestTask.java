@@ -1,8 +1,8 @@
 package com.mytaxi.tests;
 
 import com.mytaxi.BaseTest;
-import com.mytaxi.base.pages.LoginPage;
-import com.mytaxi.base.pages.SearchPage;
+import com.mytaxi.pages.LoginPage;
+import com.mytaxi.pages.SearchPage;
 
 import org.junit.Test;
 

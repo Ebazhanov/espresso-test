@@ -1,4 +1,4 @@
-package com.mytaxi.base.pages;
+package com.mytaxi.pages;
 
 import com.mytaxi.android_demo.R;
 
@@ -41,4 +41,5 @@ public class SearchPage {
                 .getDecorView())))).perform(scrollTo()).perform(click());
         return new DriverProfilePage();
     }
+
 }
